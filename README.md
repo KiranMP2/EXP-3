@@ -59,11 +59,15 @@ b)SPDT(XOR):
 
 
 a) SPDT(XNOR):
-![WhatsApp Image 2025-10-12 at 20 37 25_ca090e6e](https://github.com/user-attachments/assets/5f96b7de-c57b-4e17-b20a-c943228dad4a)
+![WhatsApp Image 2025-11-14 at 8 37 02 AM](https://github.com/user-attachments/assets/28310ff9-e1f3-4da5-9ace-46a6431c2576)
+
+![WhatsApp Image 2025-11-14 at 8 37 01 AM (2)](https://github.com/user-attachments/assets/c8d61ef4-0fe4-4df6-acb5-e28be65b1bb5)
 
 
 b) SPDT(XOR):
-![WhatsApp Image 2025-10-12 at 20 40 26_64c98387](https://github.com/user-attachments/assets/0283b0cf-cfa3-4416-8faa-5b3069b09403)
+![WhatsApp Image 2025-11-14 at 8 37 01 AM (1)](https://github.com/user-attachments/assets/9644cbf0-0291-499b-9d30-23b5c43d704f)
+
+![WhatsApp Image 2025-11-14 at 8 37 01 AM](https://github.com/user-attachments/assets/9fa140bb-34c3-4842-864e-992ba773e2af)
 
 
 
